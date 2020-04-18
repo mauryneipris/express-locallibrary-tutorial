@@ -11,6 +11,7 @@
     "serverstart": "DEBUG=express-locallibrary-tutorial:* npm run devstart"
   },
   "dependencies": {
+    "acorn": "^5.7.4",
     "async": "^3.2.0",
     "compression": "^1.7.4",
     "cookie-parser": "^1.4.5",
